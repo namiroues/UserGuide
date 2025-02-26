@@ -15,7 +15,7 @@ Whenever you add new code, you should create an appropriate test case that check
 
         - it succeeds in your test cases *and*
         - it fails predictably
-    #. More importantly, in the future we can always test that it is still working correctly. Unit tests are a crucial component of proper software engineering (see e.g. `Software Carpentry on Testing <http://software-carpentry.org/4_0/test>`_) and a large (and growing) test suite is one of the strengths of MDAnalysis.
+    #. More importantly, in the future we can always test that it is still working correctly. Unit tests are a crucial component of proper software engineering (see e.g. `Software Carpentry on Testing <https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/testing-python.html>`_) and a large (and growing) test suite is one of the strengths of MDAnalysis.
 
 Adding tests is one of the most common requests after code is pushed to MDAnalysis.  Therefore,
 it is worth getting in the habit of writing tests ahead of time so this is never an issue. We strive for ≥90% our code to be covered by tests.
